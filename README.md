@@ -49,34 +49,7 @@
 
 ---
 
-### 👀 Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gaddamsid&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
----
-
-### 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaddamsid&theme=tokyonight" alt="Languages Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaddamsid&theme=tokyonight" alt="Commit Language Card" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
