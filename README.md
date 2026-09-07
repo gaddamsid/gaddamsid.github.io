@@ -1,7 +1,7 @@
 <h1 align="center">💻 Lead UI Engineer | Frontend Architect | Siddhartha</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Lead+UI+Engineer;Frontend+Architect;AWS+Certified+Developer+(DVA-C02);Building+Enterprise+Scale+Applications;Angular+%26+React+Specialist" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
