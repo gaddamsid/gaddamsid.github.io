@@ -1,7 +1,7 @@
 <h1 align="center">💻 Lead UI Engineer | Frontend Architect | Siddhartha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Lead+UI+Engineer;Frontend+Architect;AWS+Certified+Developer+(DVA-C02);Building+Enterprise+Scale+Applications;Angular+%26+React+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Lead+UI+Engineer;Frontend+Architect;AWS+Certified+Developer+(DVA-C02);Building+Enterprise+Scale+Applications;Angular+Specialist" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
@@ -60,7 +60,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gaddamsid/gaddamsid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://github.com/gaddamsid/gaddamsid/blob/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -68,9 +72,8 @@
 ### 📈 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaddamsid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaddamsid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaddamsid&theme=tokyonight" alt="Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaddamsid&theme=tokyonight" alt="Commit Language Card" />
 </p>
 
 ---
@@ -81,12 +84,10 @@
   <a href="https://gaddamsid.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/siddhartha-gaddam-843b72265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
 </p>
 
 <p align="center">
